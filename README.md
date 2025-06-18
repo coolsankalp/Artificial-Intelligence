@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-AI and ML 
+Thanks to Anupam Bhattacharya for the code
